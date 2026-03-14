@@ -25,8 +25,7 @@
 
 ###  Tech Stack
 
-####  Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)---
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,php,bash,powershell,neovim,vim,visualstudio,vscode,idea,linux,gcp,cloudflare,heroku,vercel,aws,qt,raspberrypi,html,css,ts,js,react,nextjs,materialui,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,redis,nodejs,spring,django,laravel,graphql,nginx,docker,kubernetes,flutter,kotlin&perline=14)](https://skillicons.dev)---
 
 ###  GitHub Contribution Snake
 
