@@ -13,22 +13,22 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
-🔭 I’m currently working on **Reverse Engineering and Malware Development**
-🌱 I’m currently learning **Advanced Malware Analysis & Exploitation**
-👯 I’m looking to collaborate on **Cyber Security Research & Low-level Programming**
-🤝 I’m looking for help with **Kernel-mode Development**
-📫 How to reach me: **[hammadnasirjutt95@gmail.com](mailto:hammadnasirjutt95@gmail.com)**
+- I’m currently working on **Reverse Engineering and Malware Development**
+- I’m currently learning **Advanced Malware Analysis & Exploitation**
+- I’m looking to collaborate on **Cyber Security Research & Low-level Programming**
+- I’m looking for help with **Kernel-mode Development**
+- How to reach me: **[hammadnasirjutt95@gmail.com](mailto:hammadnasirjutt95@gmail.com)**
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
-#### 🚀 Development
+####  Development
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)---
 
-### 🐍 GitHub Contribution Snake
+###  GitHub Contribution Snake
 
 <p align="center">
   <img src="./github-user-contribution.svg" alt="Snake animation" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HammadAhmedCheema&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" width="49%"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/hammad-ahmed-cheema-01483228a/" target="blank">
