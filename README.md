@@ -25,7 +25,7 @@
 
 ###  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,php,bash,powershell,neovim,vim,visualstudio,vscode,idea,linux,gcp,cloudflare,heroku,vercel,aws,qt,raspberrypi,html,css,ts,js,react,nextjs,materialui,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,redis,nodejs,spring,django,laravel,graphql,nginx,docker,kubernetes,flutter,kotlin&perline=14)](https://skillicons.dev)---
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,visualstudio,vscode,linux,cloudflare,vercel,qt,html,css,ts,js,react,nextjs,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,redis,nodejs,django,nginx,docker,kubernetes&perline=14)](https://skillicons.dev)---
 
 ###  GitHub Contribution Snake
 
